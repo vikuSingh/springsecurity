@@ -16,5 +16,21 @@ Welcome to springsecurity example. In this example I am going to explain how we 
     
 	http://localhost:8080/login
 
-C:\Users\n521745\Documents\workspace\tutorjava\image\securityloginpage.PNG
+ ![securityloginpage](https://github.com/vikuSingh/springsecurity/assets/20941580/68f81a34-2366-4188-a522-e37e086540c2)
+
+     1. if user not exists Register user
+        http://localhost:8080/register
+
+![securityregistrationpage](https://github.com/vikuSingh/springsecurity/assets/20941580/bb54cd60-579b-404d-8045-e47722310c04)
+
+     2. provide username password correct it redirect to dashboard page.
+
+ ![securitydashboardpage](https://github.com/vikuSingh/springsecurity/assets/20941580/22cc9ce8-98a8-40d2-9f52-28e410b2ecba)
+
+     3. if username ans password is not correct then it say Invalid username and password !
+
+
+![springsecurityerrorpage](https://github.com/vikuSingh/springsecurity/assets/20941580/59d3d8af-bdf8-4da8-b37f-8afacc7517d6)
+
+ That's all. Thanks.
 
